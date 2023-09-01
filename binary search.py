@@ -1,6 +1,6 @@
 # There we start making the binary screach program
 a=[-1,0,3,5,9,12,15]
-target = 17
+target = 9
 len= len(a)
 len = int(len/2)
 if a[len] == target:
